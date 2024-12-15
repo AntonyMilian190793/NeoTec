@@ -6,10 +6,10 @@ define("DE_HOST", "localhost");
 define("DB_NAME", "dbsistemaweb");
 
 //usuario de la base de datos
-define("DB_USERNAME", "antony");
+define("DB_USERNAME", "root");
 
 //contraseña del usuario de la base de datos
-define("DB_PASSWORD", "admin");
+define("DB_PASSWORD", "");
 
 //definimos la codificacio de los caracteres
 define("DB_ENCODE", "utf8");
